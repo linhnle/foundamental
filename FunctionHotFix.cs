@@ -1,1 +1,1 @@
-void Main() {}
+void Main() { Console.WriteLine("test")}
